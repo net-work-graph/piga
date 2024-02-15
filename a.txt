@@ -1,2 +1,3 @@
 ベースA
 pi 1 #push pi only
+pi 2 #pull request
