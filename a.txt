@@ -1,1 +1,2 @@
 ベースA
+pi 1 #push pi only
